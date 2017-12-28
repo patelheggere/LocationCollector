@@ -16,7 +16,6 @@ import java.util.Date;
 
 public class AddPAActivity extends AppCompatActivity {
 
-
     private double lat, lon;
     private EditText etHouseNo, etHouseName, etStreetName, etLocality, etSBL1, etSB2, etSB3, etPin, etLat, etLon;
     private Button mSubmit, mCancel;
@@ -27,6 +26,7 @@ public class AddPAActivity extends AppCompatActivity {
     private  PAModel paModel = new PAModel();
     private DatabaseReference mDBRef;
     private FirebaseAuth mAuth;
+    //test
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
