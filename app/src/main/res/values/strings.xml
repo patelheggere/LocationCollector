@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">PA Collector Tool</string>
+    <string name="google_maps_key" templateMergeStrategy="preserve" translatable="false">AIzaSyDB37y9E0562FMHknImvSmrPLpdx0yrAtU</string>
+    <string name="et_houseno">Enter House No.</string>
+    <string name="et_housename">Enter House Name</string>
+    <string name="et_streetname">Enter Street Name</string>
+    <string name="et_locality">Enter Locality</string>
+    <string name="et_subl1">Enter Sub Locality1</string>
+    <string name="et_subl2">Enter Sub Locality2</string>
+    <string name="et_subl3">Enter Sub Locality3</string>
+    <string name="et_pin">Enter PIN Code</string>
+    <string name="sign_out">Sign Out</string>
+    <string name="hint_phone_number">Enter Phone Number</string>
+    <string name="hint_verification_code">Verification Code</string>
+    <string name="start_phone_auth">Send OTP</string>
+    <string name="verify_phone_auth">Verify OTP</string>
+    <string name="resend_phone_auth">Resend OTP</string>
+</resources>

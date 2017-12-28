@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "775457679913",
+    "firebase_url": "https://locationcollectortool.firebaseio.com",
+    "project_id": "locationcollectortool",
+    "storage_bucket": "locationcollectortool.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:775457679913:android:fa89a28c23e4689a",
+        "android_client_info": {
+          "package_name": "com.patelheggere.locationcollector"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "775457679913-vesajt3i0euvfkdp4puj8kdhj9odadit.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.patelheggere.locationcollector",
+            "certificate_hash": "e8ab3eb845550a618d9cf95d058e6e2ed4ba8ee4"
+          }
+        },
+        {
+          "client_id": "775457679913-61m7of3f14aakuci5rags7nil14t8t3b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDB37y9E0562FMHknImvSmrPLpdx0yrAtU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "775457679913-61m7of3f14aakuci5rags7nil14t8t3b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
